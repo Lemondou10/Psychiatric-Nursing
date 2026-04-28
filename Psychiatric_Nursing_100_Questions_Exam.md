@@ -25,7 +25,7 @@ All answers appear **after Question 100**.
 
 ---
 
-**3.** According to the DSM-V, which of the following is NOT listed as a diagnostic class of substance abuse?
+**3.** According to the DSM-5, which of the following is NOT listed as a diagnostic class of substance abuse?
 
 - A. Cannabis
 - B. Opioids
